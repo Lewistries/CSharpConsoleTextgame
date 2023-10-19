@@ -1,0 +1,14 @@
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\TextGame.exe
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\TextGame.deps.json
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\TextGame.runtimeconfig.json
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\TextGame.runtimeconfig.dev.json
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\TextGame.dll
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\TextGame.pdb
+C:\Users\sean1\Desktop\TextGame\TextGame\obj\Release\netcoreapp3.1\TextGame.csproj.AssemblyReference.cache
+C:\Users\sean1\Desktop\TextGame\TextGame\obj\Release\netcoreapp3.1\TextGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean1\Desktop\TextGame\TextGame\obj\Release\netcoreapp3.1\TextGame.AssemblyInfoInputs.cache
+C:\Users\sean1\Desktop\TextGame\TextGame\obj\Release\netcoreapp3.1\TextGame.AssemblyInfo.cs
+C:\Users\sean1\Desktop\TextGame\TextGame\obj\Release\netcoreapp3.1\TextGame.csproj.CoreCompileInputs.cache
+C:\Users\sean1\Desktop\TextGame\TextGame\obj\Release\netcoreapp3.1\TextGame.dll
+C:\Users\sean1\Desktop\TextGame\TextGame\obj\Release\netcoreapp3.1\TextGame.pdb
+C:\Users\sean1\Desktop\TextGame\TextGame\obj\Release\netcoreapp3.1\TextGame.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VbUkF+XftVDTns5MoPVAUD3NR7E23hpNek+lyi1zT1KvUqwMQPtvYyhbck6PXdQHNkJ9BrOhZX40oomHpqm8Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sean1\\Desktop\\TextGame\\TextGame\\TextGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean1\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.26\\microsoft.netcore.app.runtime.win-x86.3.1.26.nupkg.sha512",
+    "C:\\Users\\sean1\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.26\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.26.nupkg.sha512",
+    "C:\\Users\\sean1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.26\\microsoft.aspnetcore.app.runtime.win-x86.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}

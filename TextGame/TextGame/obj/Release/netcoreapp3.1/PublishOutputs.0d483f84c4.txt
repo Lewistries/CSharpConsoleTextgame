@@ -1,0 +1,5 @@
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\publish\TextGame.exe
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\publish\TextGame.dll
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\publish\TextGame.deps.json
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\publish\TextGame.runtimeconfig.json
+C:\Users\sean1\Desktop\TextGame\TextGame\bin\Release\netcoreapp3.1\publish\TextGame.pdb
